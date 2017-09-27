@@ -1,0 +1,18 @@
+platform :ios, "7.0"
+link_with 'PointLegend','PointLegendTests'
+pod 'AFNetworking'
+pod 'SWTableViewCell'
+pod 'SVProgressHUD'
+pod 'MJRefresh’, '~> 2.4.7’
+pod 'SDWebImage'
+pod 'AliPay', '~> 2.1.2'
+pod 'WeiboSDK', '~> 3.1.1'
+pod 'JPush-iOS-SDK', '~> 1.8.5'
+pod 'sqlite3'
+pod 'Masonry', '~> 0.6.2'
+pod 'MagicalRecord', '~> 2.3.0'
+pod 'WebViewJavascriptBridge', '~> 4.1.4'
+pod 'MCSwipeTableViewCell', '~> 2.1.4'
+pod 'Bugly'
+pod 'IQKeyboardManager', '~> 3.3.0'
+pod 'FastttCamera'

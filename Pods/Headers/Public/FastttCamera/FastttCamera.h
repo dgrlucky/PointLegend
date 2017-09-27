@@ -1,0 +1,1 @@
+link ../../../FastttCamera/FastttCamera/FastttCamera.h

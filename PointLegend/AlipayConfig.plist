@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PartnerID</key>
+	<string>2088511218623964</string>
+	<key>SellerID</key>
+	<string>pay@1dcq.com</string>
+	<key>PrivateKey</key>
+	<string>MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBAJVbbL0MCXZYKLqdAOziy5CKdKc+ZLTHGGmTGFguZua3Phc9fV1UsqQlXaKNUEEMBTMnzUXBIDei7ZhAQDK4S5azj2TmRix1caiYPHN2TLxFzCzryDfS0ryDiGu36ejAtctPZsNyrQvhsEEtN3fPhU+tb6ktAYD4A+w3I/0BVNjBAgMBAAECgYEAhEfg2t6aUtJp4D3F4AhOOsol3yoHj4T2PislWJRgVt7cg0DWk568SV0+vQVjmvjGcjRCPhF6M0x+GmZtdX58krY+sswerVzHEjRr1LitseTc+ZQmMO/LEm8DXskDjpyWHP3RlATqUbDm1v51AOYT3q0rfJ5JD72PKjYEh5giV0ECQQDEDarC2jLFZ/IHi12bdYONSgcN47WwwJIpsiDuIr4lbFOhNsTFOMGyHHWQdBySfaPTq18xor1nXfnJ73vSoZ8lAkEAwwaMK0iUUgFa/SmA0JSGNbeXfhlFJ4Es5liRnkfY6CYoyWE5lxL73BgS7rEMDGfi43FLTBdyZrfxT1fVgdrebQJBALSBsNs+csh2b8yqcEEV7U1E/0G2ii523xwsuU0IB/IEzur7tievngcTVNrvTO9DZncYrcjRgXmOeNGIAYVo8VECQQCXCkccboWQTURutOnyoFSg3aMSIfgQ9FYVv5pnfzVZ9dO4wvebLTSp7GsdOTkfkoWBqIisUaxkKSlWTawpeZyxAkBpbNIvnmBpHIuXtiVv4zl1OGkDkxyJWsRD4RzS9eRifSdunec67/IpYWLMNJM08ZzN+DCM4a9UJkvpz+Ce8ZpZ</string>
+	<key>PublicKey</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnxj/9qwVfgoUh/y2W89L6BkRAFljhNhgPdyPuBV64bfQNN1PjbCzkIM6qRdKBoLPXmKKMiFYnkd6rAoprih3/PrQEB/VsW8OoM8fxn67UDYuyBTqA23MML9q1+ilIZwBC2AQ2UBVOrFXfFl75p6/B5KsiNG9zpgmLCUYuLkxpLQIDAQAB</string>
+</dict>
+</plist>

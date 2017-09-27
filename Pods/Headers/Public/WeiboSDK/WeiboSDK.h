@@ -1,0 +1,1 @@
+link ../../../WeiboSDK/libWeiboSDK/WeiboSDK.h

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MERCHANTID</key>
+	<string>105584073990442</string>
+	<key>POSID</key>
+	<dict>
+		<key>借记卡</key>
+		<string>751849699</string>
+		<key>贷记卡</key>
+		<string>578932632</string>
+	</dict>
+	<key>BRANCHID</key>
+	<string>442000000</string>
+	<key>TXCODE</key>
+	<string>520100</string>
+	<key>TYPE</key>
+	<string>01</string>
+	<key>CURCODE</key>
+	<string>01</string>
+	<key>GATEWAY</key>
+	<string>W1Z1</string>
+	<key>PUB</key>
+	<dict>
+		<key>借记卡</key>
+		<string>93725f999117ec2a3958de67020111</string>
+		<key>贷记卡</key>
+		<string>48d9f8d3dc3af892ef641109020111</string>
+	</dict>
+	<key>URLHeader</key>
+	<string>https://ibsbjstar.ccb.com.cn/app/ccbMain?</string>
+</dict>
+</plist>

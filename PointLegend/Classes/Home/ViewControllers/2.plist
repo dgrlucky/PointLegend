@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>img</key>
+		<string>t1</string>
+		<key>subTitle</key>
+		<string>不鸣则已，一鸣惊人</string>
+		<key>title</key>
+		<string>一鸣名品</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>t2</string>
+		<key>subTitle</key>
+		<string>打造赤城第一豪华星级婚庆宴会大厅！</string>
+		<key>title</key>
+		<string>新华大酒店</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>t3</string>
+		<key>subTitle</key>
+		<string>好吃不过饺子</string>
+		<key>title</key>
+		<string>旺都饺子馆</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>t4</string>
+		<key>subTitle</key>
+		<string>汇丰电器 包您满意</string>
+		<key>title</key>
+		<string>汇丰电器</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>t5</string>
+		<key>subTitle</key>
+		<string>传承客家美食</string>
+		<key>title</key>
+		<string>惠城老友记</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>保定山沟沟</string>
+		<key>subTitle</key>
+		<string>家的感觉！</string>
+		<key>img</key>
+		<string>t6</string>
+	</dict>
+</array>
+</plist>

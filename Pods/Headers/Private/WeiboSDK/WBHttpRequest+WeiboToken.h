@@ -1,0 +1,1 @@
+link ../../../WeiboSDK/libWeiboSDK/WBHttpRequest+WeiboToken.h

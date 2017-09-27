@@ -1,0 +1,61 @@
+//
+//  PointLegend.pch
+//  PointLegend
+//
+//  Created by leon guo on 15/9/8.
+//  Copyright (c) 2015年 CenturyGalaxyNetworkDevelopment. All rights reserved.
+//
+
+#ifndef PointLegend_PointLegend_pch
+#define PointLegend_PointLegend_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Interfaces.h"
+#import "Macros.h"
+#import "SVProgressHUD.h"
+#import "UIView+Extension.h"
+#import "InlineFuncs.h"
+#import "PLLocationMgr.h"
+#import "AFNetworking.h"
+#import "PLHttpTools.h"
+#import "Masonry.h"
+#import "UIViewController+loadingHUD.h"
+#import "NSString+Util.h"
+#import <CoreLocation/CoreLocation.h>
+#import "Masonry.h"
+#import "PLUserInfoModel.h"
+#import "UIImageView+WebCache.h"
+#import "UIViewExt.h"
+#import "UIColor+HexColor.h"
+
+
+#import <BaiduMapAPI_Base/BMKBaseComponent.h>//引入base相关所有的头文件
+
+#import <BaiduMapAPI_Map/BMKMapComponent.h>//引入地图功能所有的头文件
+
+#import <BaiduMapAPI_Search/BMKSearchComponent.h>//引入检索功能所有的头文件
+
+#import <BaiduMapAPI_Cloud/BMKCloudSearchComponent.h>//引入云检索功能所有的头文件
+
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>//引入定位功能所有的头文件
+
+#import <BaiduMapAPI_Utils/BMKUtilsComponent.h>//引入计算工具所有的头文件
+
+#import <BaiduMapAPI_Radar/BMKRadarComponent.h>//引入周边雷达功能所有的头文件
+
+#import <BaiduMapAPI_Map/BMKMapView.h>//只引入所需的单个头文件
+
+#import "UMSocial.h"
+
+#import "UMSocialWechatHandler.h"
+
+#import "UMSocialQQHandler.h"
+
+#import <Bugly/CrashReporter.h>
+
+#import "KeyboardManager.h"
+
+#import "MagicalRecord.h"
+
+#endif
